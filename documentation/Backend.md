@@ -32,7 +32,7 @@
     
     
 1. Now, we are going to add the amplify video module to the project. 
-    * `amplify video add`
+    * `amplify add video`
 1. Follow the prompts as shown below. We'll be building in a basic content management system (CMS) as part of our video-on-demand (VOD) platform.
 <pre>
 unicornflix <b>$amplify add video</b>
